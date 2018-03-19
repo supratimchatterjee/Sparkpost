@@ -1,0 +1,26 @@
+.container{
+	max-width:960px;
+	margin:0 auto;
+	}
+table{
+    border-top: 2px solid #FA6423;
+	border-bottom:1px solid #E2E2E4;
+	border-right:1px solid #E2E2E4;
+	border-left:1px solid #E2E2E4;
+	width:100%;
+}	
+
+table th+th,table td+td {
+	border-left:1px solid #E2E2E4;	
+}
+
+
+table td{
+	height:60px;	
+}
+
+table tr.alternate-bg { background:#f2f2f5;}
+
+.center{
+		text-align:center;
+}
